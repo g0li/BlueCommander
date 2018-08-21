@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/home/roshan/.gradle/caches/transforms-1/files-1.1/androidcardstack.aar/1cda59f3a188e3bf27ef6887ee790ced:unspecified@jar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/androidcardstack.aar/1cda59f3a188e3bf27ef6887ee790ced/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/androidcardstack.aar/1cda59f3a188e3bf27ef6887ee790ced/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

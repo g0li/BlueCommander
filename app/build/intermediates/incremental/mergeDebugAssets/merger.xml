@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/roshan/Projects/BlueCommander/app/src/main/assets"><file name="noto_serif.ttf" path="/home/roshan/Projects/BlueCommander/app/src/main/assets/noto_serif.ttf"/></source><source path="/home/roshan/Projects/BlueCommander/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/roshan/Projects/BlueCommander/app/src/debug/assets"/></dataSet></merger>

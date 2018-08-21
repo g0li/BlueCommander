@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.copiacs.bluecommander">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".login.LoginActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".login.ForgotPasswordActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".login.RegisterActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".visitorslist.VisitorListActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".visitorslist.NewVisitorEntry"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name=".dailyvisitors.NewDVisitorEntry"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name=".dailyvisitors.DailyVisitors"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".reports.VehicleLogActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".reports.ReportsActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".visitorexit.VisitorExit"
+            android:label="@string/title_activity_visitor_exit"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".reports.VisitorInBuilding"
+            android:label="@string/title_activity_visitor_in_building"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".reports.VisitorLog"
+            android:label="@string/title_activity_visitor_log"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".accountsetup.AccountSetup"
+            android:label="@string/title_activity_account_setup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".HelpActivity" />
+        <activity android:name=".AboutActivity" />
+        <activity
+            android:name=".accountsetup.SetupOrg"
+            android:label="@string/title_activity_setup_org"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".accountsetup.SetupBuilding"
+            android:label="@string/title_activity_setup_building"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".accountsetup.SetupGates"
+            android:label="@string/title_activity_setup_gates"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".accountsetup.SetupUser"
+            android:label="@string/title_activity_setup_user"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".accountsetup.SetupHost"
+            android:label="@string/title_activity_setup_host"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".accountsetup.SetupDailyVisitor"
+            android:label="@string/title_activity_setup_daily_visitor"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>

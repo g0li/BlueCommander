@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/roshan/Projects/BlueCommander/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/roshan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/51d7c36f3d2efa500efef38f7c111acc/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

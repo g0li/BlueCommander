@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".accountsetup.AccountSetup"
+    tools:showIn="@layout/app_bar_account_setup">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/odCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:id="@+id/odLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/odView"
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                android:background="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/odIV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="?attr/selectableItemBackground"
+                android:padding="25dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_org" />
+
+            <CheckedTextView
+                android:id="@+id/odCTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="?attr/selectableItemBackground"
+                android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                android:checked="true"
+                android:fontFamily="serif"
+                android:gravity="center_vertical"
+                android:text="Organization Data"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/sbCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:id="@+id/sbLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/sbView"
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                android:background="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/sbIV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="?attr/selectableItemBackground"
+                android:padding="25dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_office_block" />
+
+            <CheckedTextView
+                android:id="@+id/sbCTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="?attr/selectableItemBackground"
+                android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                android:checked="true"
+                android:fontFamily="serif"
+                android:gravity="center_vertical"
+                android:text="Setup Building"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/sgCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:id="@+id/sgLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/sgView"
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                android:background="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/sgIV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="?attr/selectableItemBackground"
+                android:padding="25dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_guard" />
+
+            <CheckedTextView
+                android:id="@+id/sgCTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="?attr/selectableItemBackground"
+                android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                android:checked="true"
+                android:fontFamily="serif"
+                android:gravity="center_vertical"
+                android:text="Setup Gates"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/suCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:id="@+id/suLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/suView"
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                android:background="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/suIV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="?attr/selectableItemBackground"
+                android:padding="25dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_group" />
+
+            <CheckedTextView
+                android:id="@+id/suCTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="?attr/selectableItemBackground"
+                android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                android:checked="true"
+                android:fontFamily="serif"
+                android:gravity="center_vertical"
+                android:text="Setup Users"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/shCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:id="@+id/shLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/shView"
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                android:background="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/shIV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="?attr/selectableItemBackground"
+                android:padding="25dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_meet" />
+
+            <CheckedTextView
+                android:id="@+id/shCTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="?attr/selectableItemBackground"
+                android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                android:checked="true"
+                android:fontFamily="serif"
+                android:gravity="center_vertical"
+                android:text="Setup Hosts"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/sdvCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:id="@+id/sdvLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <View
+                android:id="@+id/sdvView"
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                android:background="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/sdIV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:background="?attr/selectableItemBackground"
+                android:padding="25dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_content" />
+
+            <CheckedTextView
+                android:id="@+id/sdCTV"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="?attr/selectableItemBackground"
+                android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+                android:checked="true"
+                android:fontFamily="serif"
+                android:gravity="center_vertical"
+                android:text="Setup Daily Visitors"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

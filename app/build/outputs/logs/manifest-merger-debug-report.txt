@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+MERGED from [androidcardstack.aar] /home/roshan/.gradle/caches/transforms-1/files-1.1/androidcardstack.aar/1cda59f3a188e3bf27ef6887ee790ced/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ce11ef68382b9a81ea1185d00cbe17bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.ernestoyaquello.stepperform:vertical-stepper-form:0.9.9] /home/roshan/.gradle/caches/transforms-1/files-1.1/vertical-stepper-form-0.9.9.aar/9e3f760c45597a9f125c526d41a305fc/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.coyarzun89:fabtransitionactivity:0.2.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/fabtransitionactivity-0.2.0.aar/cecab02d3ee2a8c65b33fd349e071f4b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.archit.calendar:awesome-calendar:1.0.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/awesome-calendar-1.0.1.aar/d4792378b5c92e9ee5c8b3b28f2fa8a0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.nightonke:jellytogglebutton:1.0.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/jellytogglebutton-1.0.2.aar/7287b179350411c464121820549e1cff/AndroidManifest.xml:2:1-17:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d2ac1ce12a046b0b3be991796cbff038/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.jrvansuita:MaterialAbout:0.2.3] /home/roshan/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/55887980aad23b9649970639a3afef5f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/51d7c36f3d2efa500efef38f7c111acc/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/IconHandler-v2.0.0.aar/79d2b7329c0c51411fa167797088e5c8/AndroidManifest.xml:2:1-17:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/6b2bf6947b43d804e3ba13a3a0be2a67/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c84d03dffc0000116c67901ba5e09f29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b0b6e5667aad5fb73ec383576586aaef/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9362befe94eb5b4fa0781185008860dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9857af613a057e22af5c23a845d1d8ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jaredrummler:material-spinner:1.2.5] /home/roshan/.gradle/caches/transforms-1/files-1.1/material-spinner-1.2.5.aar/528074f67249ab02329ecb61b897d2d2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/roshan/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/ea0f41a0e141ea93bb83d579bdfe38d9/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.kettsun0123:floaty:0.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/floaty-0.1.0.aar/0d28305321800eb72a6fabdb8905e49d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.ramotion.foldingcell:folding-cell:1.2.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/folding-cell-1.2.2.aar/718c17bb5fc33765c76aff09ad2ae329/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/43856446b3e4891fed6595780117f79f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7ade08f2b248ef85a4d6716991433ac4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6f90074ae821b6c82076d137c06108cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c8b2cce6809bcda26431e7500bd4f898/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4e3c6059ec176c8c3b690861ca38fbdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a7ea9306b05b42caf93eb55a140d1bf0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/789ea13eb599efccaf2bcb531afd6857/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/67fdf33d903e5ebd61d15dfa549ab171/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7c0966461d64e66876af100802754fe4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ozodrukh:CircularReveal:1.3.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.3.1.aar/081d555c347c6bd9d2342757f7438cec/AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f94ad39d49c714c7ec15706560adf0a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2a5996d42a8ab79422348f097f5d276c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b0994120cac3501fffe3f107517d64f7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f96ec669209f4c32f6cf419152baa9ed/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:1-94:12
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:5:5-92:19
+MERGED from [androidcardstack.aar] /home/roshan/.gradle/caches/transforms-1/files-1.1/androidcardstack.aar/1cda59f3a188e3bf27ef6887ee790ced/AndroidManifest.xml:12:5-20
+MERGED from [androidcardstack.aar] /home/roshan/.gradle/caches/transforms-1/files-1.1/androidcardstack.aar/1cda59f3a188e3bf27ef6887ee790ced/AndroidManifest.xml:12:5-20
+MERGED from [com.ernestoyaquello.stepperform:vertical-stepper-form:0.9.9] /home/roshan/.gradle/caches/transforms-1/files-1.1/vertical-stepper-form-0.9.9.aar/9e3f760c45597a9f125c526d41a305fc/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ernestoyaquello.stepperform:vertical-stepper-form:0.9.9] /home/roshan/.gradle/caches/transforms-1/files-1.1/vertical-stepper-form-0.9.9.aar/9e3f760c45597a9f125c526d41a305fc/AndroidManifest.xml:11:5-15:19
+MERGED from [com.archit.calendar:awesome-calendar:1.0.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/awesome-calendar-1.0.1.aar/d4792378b5c92e9ee5c8b3b28f2fa8a0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.archit.calendar:awesome-calendar:1.0.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/awesome-calendar-1.0.1.aar/d4792378b5c92e9ee5c8b3b28f2fa8a0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.nightonke:jellytogglebutton:1.0.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/jellytogglebutton-1.0.2.aar/7287b179350411c464121820549e1cff/AndroidManifest.xml:11:5-15:19
+MERGED from [com.nightonke:jellytogglebutton:1.0.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/jellytogglebutton-1.0.2.aar/7287b179350411c464121820549e1cff/AndroidManifest.xml:11:5-15:19
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d2ac1ce12a046b0b3be991796cbff038/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d2ac1ce12a046b0b3be991796cbff038/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/51d7c36f3d2efa500efef38f7c111acc/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/51d7c36f3d2efa500efef38f7c111acc/AndroidManifest.xml:13:5-20
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/IconHandler-v2.0.0.aar/79d2b7329c0c51411fa167797088e5c8/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/IconHandler-v2.0.0.aar/79d2b7329c0c51411fa167797088e5c8/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b0b6e5667aad5fb73ec383576586aaef/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b0b6e5667aad5fb73ec383576586aaef/AndroidManifest.xml:9:5-20
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/roshan/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/ea0f41a0e141ea93bb83d579bdfe38d9/AndroidManifest.xml:12:5-20
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/roshan/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/ea0f41a0e141ea93bb83d579bdfe38d9/AndroidManifest.xml:12:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.3.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.3.1.aar/081d555c347c6bd9d2342757f7438cec/AndroidManifest.xml:10:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.3.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.3.1.aar/081d555c347c6bd9d2342757f7438cec/AndroidManifest.xml:10:5-20
+	android:supportsRtl
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.copiacs.bluecommander.HomeActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:12:9-15:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:14:13-56
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:13:13-41
+activity#com.copiacs.bluecommander.login.LoginActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:18:13-56
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:17:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.copiacs.bluecommander.login.ForgotPasswordActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:26:9-28:75
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:27:13-57
+activity#com.copiacs.bluecommander.login.RegisterActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:29:9-31:75
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:31:13-72
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:30:13-51
+activity#com.copiacs.bluecommander.visitorslist.VisitorListActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:32:9-34:59
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:33:13-61
+activity#com.copiacs.bluecommander.visitorslist.NewVisitorEntry
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:35:9-37:48
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:36:13-57
+activity#com.copiacs.bluecommander.dailyvisitors.NewDVisitorEntry
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:38:9-40:48
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:39:13-59
+activity#com.copiacs.bluecommander.dailyvisitors.DailyVisitors
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:41:9-43:59
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:42:13-56
+activity#com.copiacs.bluecommander.reports.VehicleLogActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:44:9-46:59
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:45:13-55
+activity#com.copiacs.bluecommander.reports.ReportsActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:47:9-49:59
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:48:13-52
+activity#com.copiacs.bluecommander.visitorexit.VisitorExit
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:50:9-53:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:52:13-64
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:51:13-52
+activity#com.copiacs.bluecommander.reports.VisitorInBuilding
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:54:9-57:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:56:13-71
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:55:13-54
+activity#com.copiacs.bluecommander.reports.VisitorLog
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:58:9-61:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:60:13-63
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:59:13-47
+activity#com.copiacs.bluecommander.accountsetup.AccountSetup
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:62:9-65:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:64:13-65
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:63:13-54
+activity#com.copiacs.bluecommander.HelpActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:66:9-50
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:66:19-47
+activity#com.copiacs.bluecommander.AboutActivity
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:67:9-51
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:67:19-48
+activity#com.copiacs.bluecommander.accountsetup.SetupOrg
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:68:9-71:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:70:13-61
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:69:13-50
+activity#com.copiacs.bluecommander.accountsetup.SetupBuilding
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:72:9-75:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:74:13-66
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:73:13-55
+activity#com.copiacs.bluecommander.accountsetup.SetupGates
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:76:9-79:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:78:13-63
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:79:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:77:13-52
+activity#com.copiacs.bluecommander.accountsetup.SetupUser
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:80:9-83:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:82:13-62
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:81:13-51
+activity#com.copiacs.bluecommander.accountsetup.SetupHost
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:84:9-87:59
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:86:13-62
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:87:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:85:13-51
+activity#com.copiacs.bluecommander.accountsetup.SetupDailyVisitor
+ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:88:9-91:58
+	android:label
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:90:13-71
+	android:theme
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:91:13-56
+	android:name
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml:89:13-59
+uses-sdk
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+MERGED from [androidcardstack.aar] /home/roshan/.gradle/caches/transforms-1/files-1.1/androidcardstack.aar/1cda59f3a188e3bf27ef6887ee790ced/AndroidManifest.xml:8:5-10:41
+MERGED from [androidcardstack.aar] /home/roshan/.gradle/caches/transforms-1/files-1.1/androidcardstack.aar/1cda59f3a188e3bf27ef6887ee790ced/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ce11ef68382b9a81ea1185d00cbe17bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ce11ef68382b9a81ea1185d00cbe17bf/AndroidManifest.xml:20:5-44
+MERGED from [com.ernestoyaquello.stepperform:vertical-stepper-form:0.9.9] /home/roshan/.gradle/caches/transforms-1/files-1.1/vertical-stepper-form-0.9.9.aar/9e3f760c45597a9f125c526d41a305fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ernestoyaquello.stepperform:vertical-stepper-form:0.9.9] /home/roshan/.gradle/caches/transforms-1/files-1.1/vertical-stepper-form-0.9.9.aar/9e3f760c45597a9f125c526d41a305fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.coyarzun89:fabtransitionactivity:0.2.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/fabtransitionactivity-0.2.0.aar/cecab02d3ee2a8c65b33fd349e071f4b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.coyarzun89:fabtransitionactivity:0.2.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/fabtransitionactivity-0.2.0.aar/cecab02d3ee2a8c65b33fd349e071f4b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.archit.calendar:awesome-calendar:1.0.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/awesome-calendar-1.0.1.aar/d4792378b5c92e9ee5c8b3b28f2fa8a0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.archit.calendar:awesome-calendar:1.0.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/awesome-calendar-1.0.1.aar/d4792378b5c92e9ee5c8b3b28f2fa8a0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.nightonke:jellytogglebutton:1.0.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/jellytogglebutton-1.0.2.aar/7287b179350411c464121820549e1cff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.nightonke:jellytogglebutton:1.0.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/jellytogglebutton-1.0.2.aar/7287b179350411c464121820549e1cff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d2ac1ce12a046b0b3be991796cbff038/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d2ac1ce12a046b0b3be991796cbff038/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jrvansuita:MaterialAbout:0.2.3] /home/roshan/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/55887980aad23b9649970639a3afef5f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jrvansuita:MaterialAbout:0.2.3] /home/roshan/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/55887980aad23b9649970639a3afef5f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/51d7c36f3d2efa500efef38f7c111acc/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/51d7c36f3d2efa500efef38f7c111acc/AndroidManifest.xml:8:5-11:75
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/IconHandler-v2.0.0.aar/79d2b7329c0c51411fa167797088e5c8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/IconHandler-v2.0.0.aar/79d2b7329c0c51411fa167797088e5c8/AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/6b2bf6947b43d804e3ba13a3a0be2a67/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/6b2bf6947b43d804e3ba13a3a0be2a67/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c84d03dffc0000116c67901ba5e09f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c84d03dffc0000116c67901ba5e09f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b0b6e5667aad5fb73ec383576586aaef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b0b6e5667aad5fb73ec383576586aaef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9362befe94eb5b4fa0781185008860dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9362befe94eb5b4fa0781185008860dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9857af613a057e22af5c23a845d1d8ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9857af613a057e22af5c23a845d1d8ea/AndroidManifest.xml:20:5-44
+MERGED from [com.jaredrummler:material-spinner:1.2.5] /home/roshan/.gradle/caches/transforms-1/files-1.1/material-spinner-1.2.5.aar/528074f67249ab02329ecb61b897d2d2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.jaredrummler:material-spinner:1.2.5] /home/roshan/.gradle/caches/transforms-1/files-1.1/material-spinner-1.2.5.aar/528074f67249ab02329ecb61b897d2d2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/roshan/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/ea0f41a0e141ea93bb83d579bdfe38d9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.malinskiy:superrecyclerview:1.1.4] /home/roshan/.gradle/caches/transforms-1/files-1.1/superrecyclerview-1.1.4.aar/ea0f41a0e141ea93bb83d579bdfe38d9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.kettsun0123:floaty:0.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/floaty-0.1.0.aar/0d28305321800eb72a6fabdb8905e49d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kettsun0123:floaty:0.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/floaty-0.1.0.aar/0d28305321800eb72a6fabdb8905e49d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ramotion.foldingcell:folding-cell:1.2.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/folding-cell-1.2.2.aar/718c17bb5fc33765c76aff09ad2ae329/AndroidManifest.xml:8:5-10:41
+MERGED from [com.ramotion.foldingcell:folding-cell:1.2.2] /home/roshan/.gradle/caches/transforms-1/files-1.1/folding-cell-1.2.2.aar/718c17bb5fc33765c76aff09ad2ae329/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/43856446b3e4891fed6595780117f79f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/43856446b3e4891fed6595780117f79f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7ade08f2b248ef85a4d6716991433ac4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7ade08f2b248ef85a4d6716991433ac4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6f90074ae821b6c82076d137c06108cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6f90074ae821b6c82076d137c06108cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c8b2cce6809bcda26431e7500bd4f898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c8b2cce6809bcda26431e7500bd4f898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4e3c6059ec176c8c3b690861ca38fbdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4e3c6059ec176c8c3b690861ca38fbdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a7ea9306b05b42caf93eb55a140d1bf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a7ea9306b05b42caf93eb55a140d1bf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/789ea13eb599efccaf2bcb531afd6857/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/789ea13eb599efccaf2bcb531afd6857/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/67fdf33d903e5ebd61d15dfa549ab171/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/67fdf33d903e5ebd61d15dfa549ab171/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7c0966461d64e66876af100802754fe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7c0966461d64e66876af100802754fe4/AndroidManifest.xml:20:5-44
+MERGED from [com.github.ozodrukh:CircularReveal:1.3.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.3.1.aar/081d555c347c6bd9d2342757f7438cec/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.3.1] /home/roshan/.gradle/caches/transforms-1/files-1.1/CircularReveal-1.3.1.aar/081d555c347c6bd9d2342757f7438cec/AndroidManifest.xml:6:5-8:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f94ad39d49c714c7ec15706560adf0a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f94ad39d49c714c7ec15706560adf0a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2a5996d42a8ab79422348f097f5d276c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2a5996d42a8ab79422348f097f5d276c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b0994120cac3501fffe3f107517d64f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b0994120cac3501fffe3f107517d64f7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f96ec669209f4c32f6cf419152baa9ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f96ec669209f4c32f6cf419152baa9ed/AndroidManifest.xml:20:5-44
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /home/roshan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/51d7c36f3d2efa500efef38f7c111acc/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+		ADDED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roshan/Projects/BlueCommander/app/src/main/AndroidManifest.xml

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="">
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    </group>
+    </item>
+    <item android:title="Transactions">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_visEnt"
+            android:icon="@drawable/ic_door"
+            android:title="Visitor Entry" />
+        <item
+            android:id="@+id/nav_visExit"
+            android:icon="@drawable/ic_door"
+            android:title="Visitor Exit" />
+        <item
+            android:id="@+id/nav_dailyVis"
+            android:icon="@drawable/ic_user_group"
+            android:title="Daily Visitor" />
+    </group>
+    </item>
+    <item android:title="Payment">
+        <menu>
+            <item
+                android:id="@+id/nav_renew"
+                android:icon="@drawable/ic_payment"
+                android:title="Renew" />
+
+        </menu>
+    </item>
+
+<item android:title="Reports">
+        <menu>
+            <item
+                android:id="@+id/nav_reports"
+                android:icon="@drawable/ic_stdnt"
+                android:title="Reports" />
+
+        </menu>
+    </item>
+
+<item android:title="Setup">
+        <menu>
+            <item
+                android:id="@+id/nav_setup"
+                android:icon="@drawable/ic_mgmt"
+                android:title="Setup" />
+
+        </menu>
+    </item>
+
+<item android:title="About">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_help"
+                android:title="Help" />
+            <item
+                android:id="@+id/nav_agp"
+                android:icon="@drawable/ic_info"
+                android:title="About Gate Pass" />
+            <item
+                android:id="@+id/nav_tnc"
+                android:icon="@drawable/ic_content"
+                android:title="Terms and Conditions" />
+
+        </menu>
+    </item>
+
+</menu>

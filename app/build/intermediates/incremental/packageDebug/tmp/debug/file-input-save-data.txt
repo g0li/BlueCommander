@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Jun 27 20:19:16 IST 2018
+1.base=/home/roshan/Projects/BlueCommander/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/home/roshan/Projects/BlueCommander/app/build/intermediates/transforms/dexMerger/debug/63
+1.path=noto_serif.ttf

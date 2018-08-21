@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/roshan/Projects/BlueCommander/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/roshan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/51d7c36f3d2efa500efef38f7c111acc/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    }
+                }
+            ]
+        }
+    ]
+}

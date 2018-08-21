@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kettsun0123:floaty-0.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/floaty-0.1.0.aar/054ee1177d1cdc9448de60908b5a940f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/floaty-0.1.0.aar/054ee1177d1cdc9448de60908b5a940f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kettsun0123/floaty/0.1.0/5cc2132d963397b282172a792cd802e7e1fd7b17/floaty-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
